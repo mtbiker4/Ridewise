@@ -1,4 +1,3 @@
-<!-- Full RideWise Biking Website with All Sections -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
